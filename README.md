@@ -150,7 +150,9 @@ func Test_numIdenticalPairs(t *testing.T) {
 }
 
 ```
+## my self record
 
+[leetcode iron 30 day 4th day](https://hackmd.io/L6PVb6phTiW5O1SBbcpPKQ?view)
 
 ## 參考文章
 
